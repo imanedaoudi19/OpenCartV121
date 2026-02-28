@@ -1,0 +1,2 @@
+cd C:\Users\idaoudi\Automation\myworkspaces\seleniumwebdriver\OpenCartV121
+mvn test
